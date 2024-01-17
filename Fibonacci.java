@@ -9,6 +9,11 @@ public class Fibonacci {
 
     }
 
+    /**
+     * This funciton outputs the fibonacci sequence that corresponds with the int parameter.
+     * @param n Indicates the sequence number of fibonacci
+     * @return returns the fibonacci number corresponding to the input.
+     */
     public static int fibonacciOf(int n){
 
         if (n < 2) {
